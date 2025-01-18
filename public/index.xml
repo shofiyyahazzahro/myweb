@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>My Site</title>
+    <link>http://localhost:56207/</link>
+    <description>My Site</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 14:28:01 &#43;0700</lastBuildDate>
+      <atom:link href="http://localhost:56207/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
